@@ -1,11 +1,11 @@
 require 'formula'
 
-VERSION = "1.2.0"
+VERSION = "1.3.0"
 
 class Wipasswd < Formula
   homepage "https://github.com/sekimura/wipasswd"
   url "https://github.com/sekimura/wipasswd/archive/v#{VERSION}.zip"
-  sha1 "5feb72a312362072a6c2a0467666f9586099e9f4"
+  sha1 "45790c2360a5c4191ba51db9cd805151dd5294eb"
   version VERSION
 
   def install
