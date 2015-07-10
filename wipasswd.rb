@@ -5,7 +5,7 @@ VERSION = "1.4.0"
 class Wipasswd < Formula
   homepage "https://github.com/sekimura/wipasswd"
   url "https://github.com/sekimura/wipasswd/archive/v#{VERSION}.zip"
-  sha1 "4d7e24a9258fc54cf2759580604d1c99730435ff"
+  sha1 "9dba7b0e145cd8dad8f9f705eb755a4274fefb05"
   version VERSION
 
   def install
