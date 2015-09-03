@@ -5,7 +5,7 @@ VERSION = "1.6.0"
 class Lookup < Formula
   homepage "https://github.com/sekimura/lookup"
   url "https://github.com/sekimura/lookup/archive/v#{VERSION}.zip"
-  sha1 "4c341fdb31dc7c6a00a5172a51a366bc9fabd0a0"
+  sha1 "8349479b8ff98c5c2de388083cd4c46d9c8218c0"
   version VERSION
 
   def install
